@@ -90,5 +90,5 @@ ENV/
 
 #cpp vornoi code
 hidden/
-cpp.fortunes/
+cpp.fortunes
 
