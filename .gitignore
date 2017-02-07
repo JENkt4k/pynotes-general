@@ -92,3 +92,7 @@ ENV/
 hidden/
 cpp.fortunes/
 
+#D3 ignore
+D3Notes/d3.v*.js
+
+
